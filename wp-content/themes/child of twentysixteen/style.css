@@ -1,0 +1,31 @@
+/*
+Theme Name: Herlind's flower
+Theme URI: analyticalengine.ca
+Description:This is a child theme developed for devtool 2 summer
+Author: Analytical Engine
+Version:1.0
+Template: twentysixteen
+*/
+
+@import url(../twentysixteen/style.css);
+
+.site-branding .site-title a {
+    color: #00b9eb;
+}
+
+.site-branding .site-title a:hover, .site-branding .site-title a {
+    color: #b14e10;
+}
+
+.site-description {
+  color: #686868;
+  font-size: 13px;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.0769230769;
+  margin: 0.538461538em 0 0;
+}
+
+.entry-title{
+    font-family: 'Source Sans Pro';
+}
