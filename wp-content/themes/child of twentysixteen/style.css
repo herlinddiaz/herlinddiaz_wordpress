@@ -6,8 +6,7 @@ Author: Analytical Engine
 Version:1.0
 Template: twentysixteen
 */
-
-@import url(../twentysixteen/style.css);
+@import url('../twentysixteen/style.css');
 
 .site-branding .site-title a {
     color: #00b9eb;
