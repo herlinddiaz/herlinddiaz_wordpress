@@ -2,11 +2,16 @@
 Theme Name: Herlind's flower
 Theme URI: analyticalengine.ca
 Description:This is a child theme developed for devtool 2 summer
-Author: Analytical Engine
+Author: Herlind Diaz
 Version:1.0
 Template: twentysixteen
 */
 @import url('../twentysixteen/style.css');
+
+@import url('https://fonts.googleapis.com/css?family=Lato|Montserrat');
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Lato', sans-serif;
 
 .site-branding .site-title a {
     color: #00b9eb;
